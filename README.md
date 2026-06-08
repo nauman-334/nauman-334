@@ -1,4 +1,13 @@
-# Hi there, I'm Nauman Anwar! 👋
+
+<div align="center">
+  <h1>👋 Hi, I'm Nauman</h1>
+  <p>🚀 Passionate Developer | 💻 Data Scientist | 🌟 Open Source Enthusiast</p>
+</div>
+
+<!-- Animated Banner (Optional) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=FF9900&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Nauman;%F0%9F%87%A9%F0%9F%87%AA+Data+Scientist+from+Germany;%E2%8F%9A+5%2B+Years+of+QA+and+Coding+Experience;%F0%9F%A4%96+Passionate+about+AI+and+Data;%F0%9F%9A%80+Open+for+Collaborations;%F0%9F%93%9A+Let's+Connect+and+Learn+Together!" alt="Typing SVG" />
+</div>
 
 ## 🌐 Socials:
 [![GitHub followers](https://img.shields.io/github/followers/faisalriazz?label=Follow&style=social)](https://github.com/nauman-334)
@@ -65,12 +74,8 @@ I'm an **AI Engineer** passionate about bridging the gap between engineering and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nauman-334&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-334&layout=compact&langs_count=8&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nauman-334&theme=dark" alt="nauman-334" />
+  <!-- NEW: Updated streak API (more reliable) -->
+  <img src="https://streak-stats.demolab.com?user=nauman-334&theme=dark&background=0d1117&hide_border=true&border_radius=8&ring=ff9900&fire=ff9900&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff9900&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ## 🔭 Current Focus
